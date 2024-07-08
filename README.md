@@ -1,1 +1,1 @@
-stock Prices
+Stock Price Prediction
